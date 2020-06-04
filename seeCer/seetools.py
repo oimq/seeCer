@@ -1,0 +1,7 @@
+TOOLS = {
+    'ELASTICSEARCH':{
+        'INDEX':{
+            'PREFIX':''
+        },
+    }
+}
